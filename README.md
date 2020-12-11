@@ -8,4 +8,4 @@ Delete spam and adult content.
 
 Route all internet traffic through a no logging VPN so we don't get shut down when our service is abused.
 
-Use https://github.com/sagemathinc/cocalc-kubernetes pay Sagemath Inc. $1,499/year for MIT License and host on Scaleway.com (cheap as fuck) and apply for Scaleway's startup program.
+Use https://github.com/sagemathinc/cocalc-kubernetes and pay Sagemath Inc. $1,499/year for MIT License and non-guaranteed support and host on Scaleway.com (very cheap) and apply for Scaleway's startup program.
