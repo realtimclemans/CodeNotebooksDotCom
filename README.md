@@ -1,8 +1,8 @@
 # CodeNotebooks.com
 
-CodeNotebooks.com will be an online library of live editable CoCalc Jupyter notebooks. 
+CodeNotebooks.com will be an online library of free live editable CoCalc Jupyter notebooks. 
 
-It'll use CoCalc.com's API and then be switched to a self hosted fork of CoCalc. The switch will happen in six months when I raise the money to buy the yearlyMIT License yearly fee and pay for servers.
+It'll use CoCalc.com's API to create CoCalc.com users and free projects with no internet access and later be switched to a self hosted fork of CoCalc to provide free internet access routed via a no-logging VPN. The switch will likely happen in six months when I raise the money to buy the yearly CoCalc Kubernetes MIT License yearly fee and pay for servers.
 
 ## Motivation
 
