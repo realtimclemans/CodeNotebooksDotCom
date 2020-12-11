@@ -28,7 +28,7 @@ $ $60/year annual report for Washington State
 * $35/year for City of Burien, Washington, United States business home occupation fee
 * $708/year for ProductHunt's Ship Pro with $5,000 in Amazon Web Services credit, unlimited projects, unlimited messages, Clearbit enrichments, embed widget,
 email form, subscriber import and export, product promotion, scheduled product launches, group messaging, private messaging, surveys and polls
-
+* $1,499/year for CoCalc Kubernetes MIT License and non-guaranteed support
 Crawl Github.com and CoCalc.com and internet in general for .ipynb files. Convert webpages with code in them to Jupyter notebooks.
 
 Delete spam and adult content.
