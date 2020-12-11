@@ -9,8 +9,14 @@ Motivation:
 
 Mission: 
 
-* Make Science Technology Engineering and Math education and certification completely free
+* Make Science Technology Engineering and Math education, mentorship, certification, soft skills training, hiring assistance completely free and better than any other provider
 * Completely elimate the use of all non-open-source software by funding the development, maintenance, support, and marketing of superior open source software
+
+How we'll give back to SageMath Inc.:
+
+* Open PRs upstream for all our CoCalc code
+* Purchase yearly MIT License and significant support
+* Pay SageMath Inc. 25% of our revune
 
 Crawl Github.com and CoCalc.com and internet in general for .ipynb files. Convert webpages with code in them to Jupyter notebooks.
 
