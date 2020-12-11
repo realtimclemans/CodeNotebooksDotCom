@@ -2,6 +2,10 @@
 
 CodeNotebooks.com will be an online library of live editable CoCalc Jupyter notebooks. It will have analytics, extensive meta-data, web crawler friendly HTML versions, show what people have done with a particular notebook, allow commenting, internet access, and allow embedding on any webpage. Be the medium.com of Jupyter notebooks. All edits are public. Charge for private use. Basically Github's original model where open source = free and private = pay.
 
+Moviation:
+
+* CoCalc.com is extremely expensive. For example 2gb of ram, 2 vCPUs, 20GB disk is $9.01 on Scaleway.com. On CoCalc 1 shared CPU core, 1GB shared ram, 20GB of disk space, priority support, network access (outbound is trottled at unknown limit), member's hosting, always running, 2 dedicated cores, 2 dedicated ram for $402.26.  
+
 Mission: 
 
 * Make Science Technology Engineering and Math education and certification completely free
