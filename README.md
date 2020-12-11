@@ -4,7 +4,7 @@ CodeNotebooks.com will be an online library of live editable CoCalc Jupyter note
 
 Motivation:
 
-* CoCalc.com is extremely expensive. For example 2gb of ram, 2 vCPUs, 20GB disk is $9.01 on Scaleway.com. On CoCalc 1 shared CPU core, 1GB shared ram, 20GB of disk space, priority support, network access (outbound is trottled at unknown limit), member's hosting, always running, 2 dedicated cores, 2 dedicated ram for $402.26.  
+* CoCalc.com is extremely expensive. For example 2gb of ram, 2 vCPUs, 20GB disk is $9.01 on Scaleway.com. On CoCalc 1 shared CPU core, 1GB shared ram, 20GB of disk space, priority support, network access (outbound is trottled at unknown limit), member's hosting, always running, 2 dedicated cores, 2 dedicated ram for $402.26 at 50% discount for students, teachers, academic researchers and hobbyists and for paying montly via Stripe.  
 * CoColc has only three active developers
 
 Mission: 
